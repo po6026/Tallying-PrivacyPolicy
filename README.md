@@ -13,6 +13,9 @@ If you accessed a website, product or service provided by a third party, includi
 ## Security
 Protecting user privacy and personal information is a top priority for Tallying. We make substantial efforts to ensure the privacy of all personally identifiable information you provide to us. You personal information are saved on your own device, we can't access it at all;
 
+## Age
+The Service is not directed to children under the age of four (4) and we do not knowingly collect personally identifiable information from children under the age of four as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of four as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of four as part of the Service.
+
 ## Notification of Changes
 We reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Debbie Reyna inc and Tallying web site, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy. We reserve the right to modify this policy from time to time, so please review it frequently.
 
